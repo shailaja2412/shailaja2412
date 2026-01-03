@@ -38,16 +38,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer specializing in
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shailaja2412&theme=redical&hide_border=true)
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shailaja2412&theme=radical&no-frame=true&no-bg=true)
-
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailaja-chauhan)
